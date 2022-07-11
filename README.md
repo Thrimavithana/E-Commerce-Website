@@ -1,8 +1,8 @@
 # E-Commerce-Website
-complete responsive e-commerce web-site
+
 features > 
 
-responsive
-night mood
-fully functional 
-customizable 
+1.responsive  
+2.night mood  
+3.fully functional  
+4.customizable   
