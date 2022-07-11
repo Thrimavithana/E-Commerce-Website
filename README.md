@@ -1,6 +1,6 @@
 # E-Commerce-Website
 
-features > 
+Features > 
 
 1.responsive  
 2.night mood  
